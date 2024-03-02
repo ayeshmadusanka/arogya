@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+body{
+    font-family: 'Roboto', sans-serif !important;
+    height:100vh;
+    color: #3a3e42 !important;
+}
+.AppForm .AppFormLeft h1{
+    font-size: 35px;
+}
+.AppForm .AppFormLeft input:focus{
+    border-color: #ced4da;
+}
+.AppForm .AppFormLeft input::placeholder{
+   font-size: 15px;
+}
+.AppForm .AppFormLeft i{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.AppForm .AppFormLeft a{
+    color: #3a3e42 ;
+}
+.AppForm .AppFormLeft button{
+    background: linear-gradient(45deg, #146e55, #178066);
+    border-radius: 30px;
+    
+}
+.AppForm .AppFormLeft p span{
+  color: #007bff;
+}
+.AppForm .AppFormRight{
+    background-image: url('../images/login.jpg');
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+}
+.AppForm .AppFormRight:after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #146e55, #178066);
+    opacity: 0.5;
+}
+.AppForm .AppFormRight h2{
+    z-index: 1;
+}
+.AppForm .AppFormRight h2::after{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+  bottom: 0;
+  left:50%;
+  transform: translateX(-50%);
+}
+.AppForm .AppFormRight p{
+    z-index: 1;
+}
+
+
+
+/* Style for select element */
+/* Style for select element */
+.AppForm .AppFormLeft select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: transparent;
+    border: none;
+    padding: 8px 20px;
+    font-size: 15px;
+    border-radius: 0;
+    border-bottom: 1px solid #ced4da; /* Add underline */
+    width: calc(100% + 20px); /* Adjust width */
+    margin-bottom: 20px;
+    color: #3a3e42;
+    outline: none; /* Remove focus outline */
+    margin-left: -10px; /* Adjust the margin to shift the underline to the right */
+}
+
+/* Style for the arrow icon in the select element */
+.AppForm .AppFormLeft select:after {
+    content: "\25BC";
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    color: #3a3e42;
+}
+
+/* Remove default focus on select element */
+.AppForm .AppFormLeft select:focus {
+    box-shadow: none; /* Remove default box-shadow on focus */
+}
+
+/* Style for date input */
+.AppForm .AppFormLeft input[type="date"] {
+    background-color: transparent;
+    border: none;
+    padding: 8px 30px 8px 0; /* Adjust padding to create space for the icon */
+    font-size: 15px;
+    border-radius: 0;
+    border-bottom: 1px solid #ced4da; /* Set the thickness of the underline */
+    width: 100%;
+    margin-bottom: 20px;
+    color: #3a3e42;
+    outline: none; /* Remove focus outline */
+    margin-left: 8px; /* Adjust the margin to move it slightly to the right */
+}
+
+/* Style for the date picker arrow icon */
+.AppForm .AppFormLeft input[type="date"]::-webkit-calendar-picker-indicator {
+    position: absolute;
+    top: 50%;
+    right: -6px; /* Adjust the right position for fine-tuning */
+    transform: translateY(-50%);
+    margin-right: 5px; /* Adjust margin to fine-tune the position */
+    z-index: 1; /* Ensure the icon is visible */
+}
+
+
+/* Remove default focus on select element */
+.AppForm .AppFormLeft input[type="date"]:focus {
+    box-shadow: none; /* Remove default box-shadow on focus */
+}
+.custom-alert {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    max-width: 100%;
+    z-index: 9999;
+    font-size: 18px;
+  }

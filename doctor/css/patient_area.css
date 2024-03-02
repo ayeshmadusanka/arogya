@@ -1,0 +1,31 @@
+.contact_section {
+  padding: 50px 0;
+}
+
+.dashboard_section {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.dashboard_section:hover {
+  background-color: #e0e0e0;
+}
+
+.card_link {
+  text-decoration: none;
+  color: inherit; /* Keep the link color */
+  display: block; /* Make the link cover the entire card */
+}
+
+.card_link:hover {
+  text-decoration: none;
+  /* Add any hover effect for the link if needed */
+}.container-half {
+  width: 50%; /* Half the screen size */
+  padding-right: 15px; /* Adjust padding if needed */
+  padding-left: 15px; /* Adjust padding if needed */
+  margin-right: auto;
+  margin-left: auto;
+}
