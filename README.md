@@ -58,3 +58,8 @@ Arogya Hospital System is a web-based application which provides a comprehensive
 - HTML
 - JavaScript (jQuery and jQuery DataTables Plugin) 
 - CSS (Bootstrap)
+
+## Authors
+
+-Ayesh Madusanka
+-Viraji Dias
