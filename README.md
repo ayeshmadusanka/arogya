@@ -61,5 +61,5 @@ Arogya Hospital System is a web-based application which provides a comprehensive
 
 ## Authors
 
--Ayesh Madusanka
--Viraji Dias
+- Ayesh Madusanka https://github.com/ayeshmadusanka 
+- Viraji Dias https://github.com/virajidias
