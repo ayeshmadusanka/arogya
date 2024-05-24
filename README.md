@@ -41,7 +41,7 @@ Arogya Hospital System is a web-based application which provides a comprehensive
      - View All Treatment History: Admin can view treatment history of patients.
    
 
-   - [Live URL: Arogya Hospital Online - Admin](https://doctor.arogyahospital.online)
+   - [Live URL: Arogya Hospital Online - Admin](https://admin.arogyahospital.online)
 
 ## Installation
 
