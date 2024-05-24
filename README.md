@@ -1,6 +1,10 @@
-# Arogya Hospital System
+## Arogya Hospital System
 
 Arogya Hospital System is a web-based application which provides a comprehensive solution for managing hospital operations, including patient registration, appointments, treatment history, doctor management, and administrative tasks.
+
+### Flyer Image
+
+![Visit our website](https://i.ibb.co/M2bfyRd/Visit-our-website.png)
 
 ## Features
 
@@ -61,5 +65,5 @@ Arogya Hospital System is a web-based application which provides a comprehensive
 
 ## Authors
 
-- Ayesh Madusanka https://github.com/ayeshmadusanka 
-- Viraji Dias https://github.com/virajidias
+- Ayesh Madusanka [GitHub](https://github.com/ayeshmadusanka)
+- Viraji Dias [GitHub](https://github.com/virajidias)
