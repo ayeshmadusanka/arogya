@@ -4,7 +4,7 @@ Arogya Hospital System is a web-based application which provides a comprehensive
 
 ### Flyer Image
 
-![Visit our website](https://i.ibb.co/M2bfyRd/Visit-our-website.png)
+![Visit our website](https://i.ibb.co/gWFwqWQ/Visit-our-website.png)
 
 ## Features
 
