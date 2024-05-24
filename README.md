@@ -11,14 +11,14 @@ Arogya Hospital System is a web-based application which provides a comprehensive
      - Reset Password : Patients can securely reset their password via sms otp system. 
      - Appointment Management: Patients can place, view, and cancel appointments.
      - Treatment History: View past treatment history.
-     - [Live URL: Arogya Hospital Online - Patient] https://arogyahospital.online
+     - [Live URL: Arogya Hospital Online - Patient](https://arogyahospital.online)
 
    - **Doctor Module**:
      - Login: Secure login system for doctors.
      - View Doctor Details: Access doctor profiles and details.
      - Appointment Management: View scheduled appointments.
      - Update Treatment History: Add or update treatment history for patients.
-     - [Live URL: Arogya Hospital Online - Doctor](https://arogyahospital.online/doctor/index.php)
+     - [Live URL: Arogya Hospital Online - Doctor](https://doctor.arogyahospital.online)
 
 2. **Admin Module**:
    - **Doctor Management**:
@@ -41,7 +41,7 @@ Arogya Hospital System is a web-based application which provides a comprehensive
      - View All Treatment History: Admin can view treatment history of patients.
    
 
-   - [Live URL: Arogya Hospital Online - Admin](https://arogyahospital.online/admin/index.php)
+   - [Live URL: Arogya Hospital Online - Admin](https://doctor.arogyahospital.online)
 
 ## Installation
 
